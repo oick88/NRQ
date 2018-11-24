@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NRQ", "NRQ\NRQ.csproj", "{B0DAE98A-43EF-4EBC-9FCD-5887F3729B39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0DAE98A-43EF-4EBC-9FCD-5887F3729B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0DAE98A-43EF-4EBC-9FCD-5887F3729B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0DAE98A-43EF-4EBC-9FCD-5887F3729B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0DAE98A-43EF-4EBC-9FCD-5887F3729B39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60BC4AD0-AE13-4AB8-A924-78D7CDCCD80F}
+	EndGlobalSection
+EndGlobal
